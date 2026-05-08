@@ -129,7 +129,11 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
 - **목표**: Claude Code를 본인 환경에 설치하고 첫 대화 나누기
 - **수행**: Claude Code 설치 → 터미널에서 첫 대화 시도
 - **제출물**: 터미널 대화 스크린샷 + 첫 질문에 대한 짧은 코멘트
-- **힌트 영상**: Claude Code 설치 가이드
+- **공식 자료**:
+  - 📘 [Claude Code 시작하기 (공식 Overview)](https://code.claude.com/docs/en/overview)
+  - 📘 [Quickstart — 첫 작업 따라하기](https://code.claude.com/docs/en/quickstart)
+  - 🛠 [설치 트러블슈팅 가이드](https://code.claude.com/docs/en/troubleshoot-install)
+  - 🎓 [무료 강좌: Claude Code 101 (Anthropic Academy)](https://anthropic.skilljar.com/claude-code-101)
 
 </details>
 
@@ -144,7 +148,10 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
   - CLAUDE.md에서 가장 마음에 드는 문장 1개
   - 1주일간 해결할 과제
   - 선택한 질문/답변과 그 이유
-- **힌트 영상**: CLAUDE.md 작성법 / AskUserQuestion 활용법
+- **공식 자료**:
+  - 📘 [CLAUDE.md & 메모리 시스템 가이드](https://code.claude.com/docs/en/memory)
+  - 📘 [AskUserQuestion / 사용자 입력 처리](https://code.claude.com/docs/en/agent-sdk/user-input)
+  - 📘 [Claude Code 모범 사례 (Best Practices)](https://code.claude.com/docs/en/best-practices)
 
 </details>
 
@@ -161,7 +168,11 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
   - 첫 작업 코드 스니펫 또는 깃헙 링크
   - 실행 결과 스크린샷/영상 (10초 이내)
 - **🎁 자랑 챌린지**: `#ai-enablement-라운센`에 첫 프로토타입 공유 시 **커피 쿠폰**!
-- **힌트 영상**: Claude로 PRD/태스크 분해하기 + 빠르게 MVP 만들기
+- **공식 자료**:
+  - 📘 [Plan Mode 활용법 (Best Practices)](https://code.claude.com/docs/en/best-practices)
+  - 📘 [일반 워크플로우 모음](https://code.claude.com/docs/en/common-workflows)
+  - 📄 [How Anthropic Teams Use Claude Code (PDF)](https://www-cdn.anthropic.com/58284b19e702b49db9302d5b6f135ad8871e7658.pdf)
+  - 🎓 [무료 강좌: Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
 
 > 💡 **이 구간이 가장 막히기 쉽습니다.** 막히면 즉시 AI 코치(서현·신영)에게 도움을 요청하세요!
 
@@ -180,7 +191,13 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
   - 동작 영상 (30초 이내)
   - Before / After 코드 또는 결과 비교
   - 실제 사용해본 소감 (잘된 점/아쉬운 점 각 1개)
-- **힌트 영상**: Claude Code로 모듈 연결하기 / MCP 활용 / 코드 리뷰 받기
+- **공식 자료**:
+  - 📘 [MCP 연결하기 (외부 도구 통합)](https://code.claude.com/docs/en/mcp)
+  - 📘 [서브에이전트 만들기](https://code.claude.com/docs/en/sub-agents)
+  - 📘 [Skills로 워크플로우 패키징](https://code.claude.com/docs/en/skills)
+  - 📘 [GitHub 코드 리뷰 자동화](https://code.claude.com/docs/en/code-review)
+  - 🎓 [무료 강좌: Introduction to MCP](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
+  - 📄 [Advanced Patterns: Subagents·MCP·Scaling (PDF)](https://resources.anthropic.com/hubfs/Claude%20Code%20Advanced%20Patterns_%20Subagents,%20MCP,%20and%20Scaling%20to%20Real%20Codebases.pdf)
 
 </details>
 
@@ -196,7 +213,11 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
   - 최종 결과물 데모 영상 (1분 이내 권장)
   - README 링크
 - **🏆 최종 보상**: Mission 5 클리어 인증 + **키캡 세트** 🎹
-- **힌트 영상**: Claude로 문서화하기
+- **공식 자료**:
+  - 📘 [README·문서 자동 생성 워크플로우](https://code.claude.com/docs/en/common-workflows)
+  - 📘 [메모리 & CLAUDE.md로 문서 정리하기](https://code.claude.com/docs/en/memory)
+  - 🎓 [Claude Code in Action — 실전 워크플로우](https://anthropic.skilljar.com/claude-code-in-action)
+  - 📺 [Anthropic 공식 YouTube 채널](https://www.youtube.com/@anthropic-ai)
 
 </details>
 
