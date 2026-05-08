@@ -124,7 +124,7 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
 ### 📋 미션별 상세
 
 <details>
-<summary><b>▶ Mission 1. Claude Code 세팅하기 (Day 1, 1~2시간)</b></summary>
+<summary><b> Mission 1. Claude Code 세팅하기 (Day 1, 1~2시간)</b></summary>
 
 - **목표**: Claude Code를 본인 환경에 설치하고 첫 대화 나누기
 - **수행**: Claude Code 설치 → 터미널에서 첫 대화 시도
@@ -138,7 +138,7 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
 </details>
 
 <details>
-<summary><b>▶ Mission 2. CLAUDE.md 작성 + 풀고 싶은 문제 정의 (Day 2, 2~3시간)</b></summary>
+<summary><b> Mission 2. CLAUDE.md 작성 + 풀고 싶은 문제 정의 (Day 2, 2~3시간)</b></summary>
 
 - **목표**: 자기소개 CLAUDE.md 작성 + 방탈출에서 풀 문제 1개 정의
 - **수행**:
@@ -156,7 +156,7 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
 </details>
 
 <details>
-<summary><b>▶ Mission 3. 문제 분해 + 첫 프로토타입 만들기 ☕ (Day 3~4, 4~6시간)</b></summary>
+<summary><b> Mission 3. 문제 분해 + 첫 프로토타입 만들기 ☕ (Day 3~4, 4~6시간)</b></summary>
 
 - **목표**: 문제를 작은 단위로 쪼개고, 가장 작은 단위 1개를 동작하게 만들기
 - **수행**:
@@ -179,7 +179,7 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
 </details>
 
 <details>
-<summary><b>▶ Mission 4. 통합 & 개선하기 (Day 5~6, 5~7시간)</b></summary>
+<summary><b> Mission 4. 통합 & 개선하기 (Day 5~6, 5~7시간)</b></summary>
 
 - **목표**: 분해한 작업들을 하나의 워크플로우로 연결하고, Claude와 함께 개선하기
 - **수행**:
@@ -202,7 +202,7 @@ AI 도구가 빠르게 보급되고 있지만, **'들어본 것'과 '실제로 �
 </details>
 
 <details>
-<summary><b>▶ Mission 5. 최종 데모 & 회고 🏆 (Day 7, 2~3시간)</b></summary>
+<summary><b> Mission 5. 최종 데모 & 회고 🏆 (Day 7, 2~3시간)</b></summary>
 
 - **목표**: 미션 정리하고 여정 정리하고 공유하기
 - **수행**:
